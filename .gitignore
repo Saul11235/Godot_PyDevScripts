@@ -1,1 +1,7 @@
 *.pyc
+*.md5
+*.godot
+*.png
+*.tres
+*.swp
+*.import
